@@ -1,0 +1,7 @@
+Polymorphism
+-- poly+ morphism
+-- many+ form
+
+There are two types of Polymorphism
+       -complile time Polymorphism
+       -Run time Polymorphism
