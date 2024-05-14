@@ -1,0 +1,3 @@
+A virtual keyword is used to create a virtual function. 
+The virtual function is the parent class
+function which we want to redefine in the child class
