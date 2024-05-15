@@ -1,0 +1,121 @@
+1. _____ represents an entity in the real world with its identity and behaviour.
+    a) A method
+    b) An object
+    c) A class
+    d) An operator
+
+2. 	_____ is used to create an object.
+    a) class
+    b) constructor
+    c) User-defined functions
+    d) In-built functions
+3. What is setattr() used for?
+    a) To access the attribute of the object
+    b) To set an attribute
+    c) To check if an attribute exists or not
+    d) To delete an attribute
+
+4. What is getattr() used for?
+    a) To access the attribute of the object
+    b) To delete an attribute
+    c) To check if an attribute exists or not
+    d) To set an attribute
+
+5. What is Instantiation in terms of OOP terminology?
+    a) Deleting an instance of class
+    b) Modifying an instance of class
+    c) Copying an instance of class
+    d) Creating an instance of class
+
+6. Which of the following best describes inheritance?
+a) Ability of a class to derive members of another class as a part of its own definition
+b) Means of bundling instance variables and methods in order to restrict access to certain class members
+c) Focuses on variables and passing of variables to functions
+d) Allows for implementation of elegant software that is well designed and easily modified
+
+7. Which of the following statements is wrong about inheritance?
+    a) Protected members of a class can be inherited
+    b) The inheriting class is called a subclass
+    c) Private members of a class can be inherited and accessed
+    d) Inheritance is one of the features of OOP
+
+ 8. All subclasses are a subtype in object-oriented programming.
+    a) True
+    b) False
+
+9. Which of the following is not a type of inheritance?
+    a) Double-level
+    b) Multi-level
+    c) Single-level
+    d) Multiple
+
+
+10. What type of inheritance is illustrated in the following Python code?
+
+    class A():
+        pass
+    class B():
+        pass
+    class C(A,B):
+        pass
+
+    a) Multi-level inheritance
+    b) Multiple inheritance
+    c) Hierarchical inheritance
+    d) Single-level inheritance
+
+11. Which of the following best describes polymorphism?
+    a) Ability of a class to derive members of another class as a part of its own definition
+    b) Means of bundling instance variables and methods in order to restrict access to certain class members
+    c) Focuses on variables and passing of variables to functions
+    d) Allows for objects of different types and behaviour to be treated as the same general type
+
+12. What is the biggest reason for the use of polymorphism?
+    a) It allows the programmer to think at a more abstract level
+    b) There is less program code to write
+    c) The program will have a more elegant design and will be easier to maintain and update
+    d) Program code takes up less space
+
+13. Which of these is not a fundamental features of OOP?
+    a) Encapsulation
+    b) Inheritance
+    c) Instantiation
+    d) Polymorphism
+
+14. Which of the following is the most suitable definition for encapsulation?
+    a) Ability of a class to derive members of another class as a part of its own definition
+    b) Means of bundling instance variables and methods in order to restrict access to certain class members
+    c) Focuses on variables and passing of variables to functions
+    d) Allows for implementation of elegant software that is well designed and easily modified
+
+15. Methods of a class that provide access to private members of the class are called as ______ and ______
+    a) getters/setters
+    b) __repr__/__str__
+    c) user-defined functions/in-built functions
+    d) __init__/__del__
+
+16. Private members of a class cannot be accessed.
+    a) True
+    b) False
+
+17. he assignment of more than one function to a particular operator is _______
+    a) Operator over-assignment
+    b) Operator overriding
+    c) Operator overloading
+    d) Operator instance
+
+18. Which of the following is not a class method?
+    a) Non-static
+    b) Static
+    c) Bounded
+    d) Unbounded
+
+19. __del__ method is used to destroy instances of a class.
+    a) True
+    b) False
+
+20. What does print(Test.__name__) display (assuming Test is the name of the class)?
+    a) ()
+    b) Exception is thrown
+    c) Test
+    d) __main__
