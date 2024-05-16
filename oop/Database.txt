@@ -1,0 +1,166 @@
+1. What is the full form of DBMS?
+    a) Data of Binary Management System
+    b) Database Management System
+    c) Database Management Service
+    d) Data Backup Management System
+
+2. What is a database?
+    a) Organized collection of information that cannot be accessed, updated, and managed
+    b) Collection of data or information without organizing
+    c) Organized collection of data or information that can be accessed, updated, and managed
+    d) Organized collection of data that cannot be updated
+3.  What is DBMS?
+    a) DBMS is a collection of queries
+    b) DBMS is a high-level language
+    c) DBMS is a programming language
+    d) DBMS stores, modifies and retrieves data
+4. Which type of data can be stored in the database?
+    a) Image oriented data
+    b) Text, files containing data
+    c) Data in the form of audio or video
+    d) All of the above
+5. In which of the following formats data is stored in the database management system?
+    a) Image
+    b) Text
+    c) Table
+    d) Graph
+
+7. Which of the following is not an example of DBMS?
+    a) MySQL
+    b) Microsoft Acess
+    c) IBM DB2
+    d) Google
+
+8. Which of the following is a feature of the database?
+    a) No-backup for the data stored
+    b) User interface provided
+    c) Lack of Authentication
+    d) Store data in multiple locations
+
+9. Which of the following is a component of the DBMS?
+    a) Data
+    b) Data Languages
+    c) Data Manager
+    d) All of the above
+
+10. What does an RDBMS consist of?
+    a) Collection of Records
+    b) Collection of Keys
+    c) Collection of Tables
+    d) Collection of Fields
+
+
+11.  The ability to query data, as well as insert, delete, and alter tuples, is offered by ____________
+    a) TCL (Transaction Control Language)
+    b) DCL (Data Control Language)
+    c) DDL (Data Definition Langauge)
+    d) DML (Data Manipulation Langauge)
+
+
+12. Which command is used to remove a relation from an SQL?
+    a) Drop table
+    b) Delete
+    c) Purge
+    d) Remove
+
+
+13. What is the function of the following command?
+
+    Delete from r where P;
+
+    a) Clears entries from relation
+    b) Deletes relation
+    c) Deletes particular tuple from relation
+    d) All of the mentioned
+
+
+
+
+14. What type of statement is this?
+    CREATE TABLE employee (name VARCHAR, id INTEGER)
+    a) DML
+    b) DDL
+    c) View
+    d) Integrity constraint
+
+15. SELECT * FROM employee
+
+What type of statement is this?
+    a) DML
+    b) DDL
+    c) View
+    d) Integrity constraint
+
+16.  To remove a relation from an SQL database, we use the ______ command.
+    a) Delete
+    b) Purge
+    c) Remove
+    d) Drop table
+
+18. Data integrity constraints are used to:
+a) Control who is allowed access to the data
+b) Ensure that duplicate records are not entered into the table
+c) Improve the quality of data entered for a specific property
+d) Prevent users from changing the values stored in the table
+
+19. To include integrity constraint in an existing relation use :
+    a) Create table
+    b) Modify table
+    c) Alter table
+    d) Drop table
+
+20. Which of the following is not an integrity constraint?
+    a) Not null
+    b) Positive
+    c) Unique
+    d) Check ‘predicate’
+
+21. Foreign key is the one in which the ________ of one relation is referenced in another relation.
+    a) Foreign key
+    b) Primary key
+    c) References
+    d) Check constraint
+
+22. Which of the following is the full form of RDBMS?
+    a) Relational Data Management System
+    b) Relational Database Management System
+    c) Relative Database Management System
+    d) Regional Data Management System
+
+24. Which of the following constraints RDBS doesn’t check before creating the tables?
+    a) Not null
+    b) Primary keys
+    c) Data Structure
+    d) Data integrity
+
+25. ________ deletes a data item from a database.
+    a) Insert(RDBMS)
+    b) Drop(RDBMS)
+    c) Delete(RDBMS)
+    d) None of the mentioned
+
+26 State true or false: We cannot specify keys in the Entity-Relationship model
+    a) True
+    b) False
+
+27. State true or false: Multiple attributes combined together can be primary keys
+    a) True
+    b) False
+
+28. What are composite attributes?
+    a) They are those attributes which cannot be further divided into other attributes
+    b) They are those attributes which can further be divided into other attributes
+    c) They are those attributes which are essentially the primary keys of the relation
+    d) None of the mentioned
+
+29. Which of the following symbols represent relationship sets in an ER diagram
+a) Divided rectangles
+b) Diamonds
+c) Lines
+d) Undivided rectangles
+
+30. An entity set that has a primary key is called as ___________
+a) Strong entity set
+b) Weak entity set
+c) Complete entity set
+d) None of the mentioned
